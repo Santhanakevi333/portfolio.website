@@ -24,7 +24,7 @@ How to View
 You can view the website live here or clone the repository to explore the code locally:
 
 
-git clone [link]
+git clone [https://santhanakevi333.github.io/portfolio.website/]
 
 Feel free to explore, and if you have any feedback or suggestions, I'd love to hear from you!
 
